@@ -8,5 +8,5 @@ This project provides insights on how to leverage â€˜Buy-Online Pickup-in-Storeâ
 
 # Methodology
 
-![alt text](https://imgur.com/YWv7Pq1)
+![](https://i.imgur.com/YWv7Pq1.png)
 
